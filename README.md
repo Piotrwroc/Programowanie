@@ -1,1 +1,1 @@
-Zebrane zadania z laboratoriów z C++
+Zebrane zadania z laboratoriów z podstaw programowania z C++
